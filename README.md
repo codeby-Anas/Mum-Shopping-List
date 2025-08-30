@@ -1,4 +1,4 @@
-README: Shopping List App
+Mum Shopping List App
 Overview:
 
 This is a simple Shopping List App developed using Python's Tkinter library for creating the graphical user interface (GUI) and JSON for saving and loading the shopping list data. The app allows users to add, remove, update, and view shopping items, including their quantity, price, and category. It also computes the total cost of the items in the list.
